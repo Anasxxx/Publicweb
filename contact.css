@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: rgb(189, 236, 33);
+}
+.map{
+    outline: solid .2rem;
+    border: solid;
+}
+.nav-link:hover{
+    background-color: black;
+}

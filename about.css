@@ -1,0 +1,9 @@
+.nav-link:hover{
+    background-color: black; 
+}
+
+.list-item:hover{
+    background-color:black;
+    color: white;
+}
+   

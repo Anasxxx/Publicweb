@@ -1,0 +1,25 @@
+.bi{
+height: 2rem;
+}
+.col-md-12{
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+.nav-link:hover{
+    background-color: black; 
+  
+}
+.icons:hover{
+    background-color: aqua;
+}
+.link:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
